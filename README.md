@@ -63,7 +63,9 @@ This command will log into the Nibbleblog admin at 192.168.1.1 on port 80, uploa
 
 ![Nibbles_RCE GIF](images/Nibbles_RCE.gif "Nibbles RCE")
 
+## Reading `etc/passwd' file.
 
+![Nibbles_RCE GIF](images/Read_Passwd.gif "Reading passwd")
 
 ## **Important Notes**
 
